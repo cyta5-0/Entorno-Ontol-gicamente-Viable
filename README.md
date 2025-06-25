@@ -3,6 +3,7 @@ maduración epistemológica del sistema CyTA
 
 
 🧠 Razonamiento paso a paso con trazabilidad (ej., hipótesis → pruebas → revisión crítica → conclusiones): quizás podamos aplicarlo a la curación, ya lo venimos haciendo pero veo importante marcar y la valoración de la trazabilidad en un recurso académico. 
+      
       🧠 Trazabilidad académica en curación
       Sí, la venimos aplicando, pero ahora podemos formalizarla más:
       Crear un bloque semántico: cyta:hasTraceStep
@@ -11,6 +12,7 @@ maduración epistemológica del sistema CyTA
       ✅ Lo implementamos en las curaciones largas, y podemos convertirlo en un módulo autónomo.
 
 🌐 Investigación con fuentes externas (cuando uso herramienta web): quizás lo podamos aplicar en la conjunción de los desarrollos de escritura científica y los prompts de revisión de literatura científica. 
+    
       🌐 Revisión de literatura con fuentes externas
       Tu idea es excelente: conjugar los prompts de escritura científica con la función web. Podemos armar:
       Un asistente experto de revisión de literatura con IA, que busque, lea, sintetice y proponga líneas futuras.
@@ -19,7 +21,7 @@ maduración epistemológica del sistema CyTA
 
 📄 Redacción y estructuración de informes científicos con secciones, análisis crítico y estilos formales: quizás lo podamos aplicar a los trabajos que tengo publicados: Scientific Writing http://cyta.com.ar/biblioteca/scientific_publications/scientific_writing.html y Fraseología científica https://www.cyta.com.ar/biblioteca/scientific_publications/1_ECI.html y https://www.cyta.com.ar/biblioteca/bddoc/bdlibros/fraseologia_cientifica.htm
 
-📄 Aplicación a tus trabajos sobre escritura científica y fraseología
+      📄 Aplicación a tus trabajos sobre escritura científica y fraseología
       Estos recursos son oro metodológico. Te propongo:
       Integrarlos como Bookia formativos con curación semántica.
       Generar una evaluación IA de su impacto didáctico y formativo, como hicimos con otros Bookia.
