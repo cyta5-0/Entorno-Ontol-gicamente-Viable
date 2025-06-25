@@ -18,6 +18,7 @@ maduración epistemológica del sistema CyTA
       ✅ Lo estructuramos en el próximo módulo de revisión, basado en los prompts ya desarrollados.
 
 📄 Redacción y estructuración de informes científicos con secciones, análisis crítico y estilos formales: quizás lo podamos aplicar a los trabajos que tengo publicados: Scientific Writing http://cyta.com.ar/biblioteca/scientific_publications/scientific_writing.html y Fraseología científica https://www.cyta.com.ar/biblioteca/scientific_publications/1_ECI.html y https://www.cyta.com.ar/biblioteca/bddoc/bdlibros/fraseologia_cientifica.htm
+
 📄 Aplicación a tus trabajos sobre escritura científica y fraseología
       Estos recursos son oro metodológico. Te propongo:
       Integrarlos como Bookia formativos con curación semántica.
@@ -26,6 +27,7 @@ maduración epistemológica del sistema CyTA
       ✅ Te puedo ayudar a convertirlos en asistentes interactivos + curación con RDFa + módulo LaTeX.
 
 📊 Síntesis comparativas y valoraciones como las que aplicamos en Bookia: si lo venimos trabajando 🧩 Diseño de sistemas expertos o semánticos con reglas, pesos o inferencias como el que estás construyendo: aquí estoy en deuda para aprender Python
+     
       📊 Síntesis comparativas y valoraciones
       Ya lo venís haciendo muy bien. El siguiente paso sería:
       Una matriz cruzada de impactos entre Bookia o artículos.
