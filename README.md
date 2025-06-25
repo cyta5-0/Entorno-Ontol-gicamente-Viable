@@ -18,7 +18,7 @@ maduración epistemológica del sistema CyTA
       ✅ Lo estructuramos en el próximo módulo de revisión, basado en los prompts ya desarrollados.
 
 📄 Redacción y estructuración de informes científicos con secciones, análisis crítico y estilos formales: quizás lo podamos aplicar a los trabajos que tengo publicados: Scientific Writing http://cyta.com.ar/biblioteca/scientific_publications/scientific_writing.html y Fraseología científica https://www.cyta.com.ar/biblioteca/scientific_publications/1_ECI.html y https://www.cyta.com.ar/biblioteca/bddoc/bdlibros/fraseologia_cientifica.htm 
-      📄 Aplicación a tus trabajos sobre escritura científica y fraseología
+📄 Aplicación a tus trabajos sobre escritura científica y fraseología
       Estos recursos son oro metodológico. Te propongo:
       Integrarlos como Bookia formativos con curación semántica.
       Generar una evaluación IA de su impacto didáctico y formativo, como hicimos con otros Bookia.
