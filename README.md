@@ -1,4 +1,4 @@
-# Entorno-Ontol-gicamente-Viable
+# Entorno-Ontológicamente-Viable
 maduración epistemológica del sistema CyTA
 
 
