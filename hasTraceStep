@@ -1,3 +1,10 @@
+  🧠 Trazabilidad académica en curación
+  Sí, la venimos aplicando, pero ahora podemos formalizarla más:
+  Crear un bloque semántico: cyta:hasTraceStep
+  Integrar pasos explícitos: hipótesis detectada → evidencia → interpretación → conclusión → recomendación
+  Esto puede dar lugar a un "mapa de trazabilidad epistémica" de cada artículo curado, con o sin IA
+  ✅ Lo implementamos en las curaciones largas, y podemos convertirlo en un módulo autónomo.
+
 Seguimiento de la validez de un argumento:
   Evaluar la solidez y fiabilidad de un argumento rastreando las fuentes y la evidencia que lo respalda.
   Documentar el proceso de investigación:
