@@ -1,5 +1,5 @@
 # Entorno-Ontológicamente-Viable
-maduración epistemológica del sistema CyTA
+Maduración epistemológica del sistema CyTA
 
 
 🧠 Razonamiento paso a paso con trazabilidad (ej., hipótesis → pruebas → revisión crítica → conclusiones): quizás podamos aplicarlo a la curación, ya lo venimos haciendo pero veo importante marcar y la valoración de la trazabilidad en un recurso académico. 
