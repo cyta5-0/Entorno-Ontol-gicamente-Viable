@@ -5,7 +5,7 @@ maduración epistemológica del sistema CyTA
 🧠 Razonamiento paso a paso con trazabilidad (ej., hipótesis → pruebas → revisión crítica → conclusiones): quizás podamos aplicarlo a la curación, ya lo venimos haciendo pero veo importante marcar y la valoración de la trazabilidad en un recurso académico. 
       
       🧠 Trazabilidad académica en curación
-      Sí, la venimos aplicando, pero ahora podemos formalizarla más:
+      Podemos formalizarla:
       Crear un bloque semántico: cyta:hasTraceStep
       Integrar pasos explícitos: hipótesis detectada → evidencia → interpretación → conclusión → recomendación
       Esto puede dar lugar a un "mapa de trazabilidad epistémica" de cada artículo curado, con o sin IA
